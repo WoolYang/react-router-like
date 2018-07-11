@@ -1,5 +1,11 @@
-import HashRouter from './hashrouter.js'
+import HashRouter from './hashrouter'
+import Route from './route'
+import Switch from './switch'
+import NavLink from './navlink'
 
 export {
-    HashRouter
+    HashRouter,
+    Route,
+    Switch,
+    NavLink
 }
